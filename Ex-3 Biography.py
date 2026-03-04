@@ -14,3 +14,4 @@ else:
 # Print Only The Available Information
 for key in person_info:
     print(person_info[key], sep="\n")
+
