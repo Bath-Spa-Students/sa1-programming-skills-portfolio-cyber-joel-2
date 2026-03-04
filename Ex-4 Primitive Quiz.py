@@ -1,5 +1,5 @@
 # Dictionary of countries and their capitals
-quiz = {"France": "Paris","Germany": "Berlin","Italy": "Rome","Spain": "Madrid","Portugal": "Lisbon","Netherlands": "Amsterdam","Belgium": "Brussels","Sweden": "Stockholm","Norway": "Oslo","Greece": "Athens"}
+quiz = {"France": "Paris","Germany": "Berlin","Italy": "Rome","Spain": "Madrid","Portugal": "Lisbon","Netherlands": "Amsterdam","Belgium": "Brussels","India": "Delhi","Norway": "Oslo","United Arab Emirates": "Abu Dhabi"}
 
 score = 0 # Initialize score
 
@@ -14,3 +14,4 @@ for country in quiz:
         
 # Feedback
 print("Your score is", score, "out of", len(quiz))
+
